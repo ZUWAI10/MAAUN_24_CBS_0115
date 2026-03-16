@@ -1,4 +1,4 @@
-This is my first GitHub commit.
+upThis is my first GitHub commit.
 I am practicing commits.
 Update 2
 update 3
@@ -10,3 +10,4 @@ update 8
 update 9
 update 10
 update 11
+update 12
